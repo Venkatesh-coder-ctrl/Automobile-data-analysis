@@ -50,7 +50,7 @@ This analysis helps understand how technical and design features influence autom
 ## 📊 Visual Outputs
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](image/Screenshot 2026-04-23 155708.png)
 
 ### Price by Brand
 ![Bar Chart](images/bar.png)

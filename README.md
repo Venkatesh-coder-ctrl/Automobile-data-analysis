@@ -50,7 +50,7 @@ This analysis helps understand how technical and design features influence autom
 ## 📊 Visual Outputs
 
 ### Correlation Heatmap
-![Heatmap](image/Screenshot 2026-04-23 155708.png)
+![Heatmap](images/[Screenshot 2026-04-23 155708.png](https://github.com/Venkatesh-coder-ctrl/Automobile-data-analysis/blob/631b079d9145db3a67f23b8ed055a327d2fd0c33/images/Screenshot%202026-04-23%20155708.png))
 
 ### Price by Brand
 ![Bar Chart](images)

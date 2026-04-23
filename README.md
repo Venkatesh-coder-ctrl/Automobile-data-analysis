@@ -47,6 +47,17 @@ The dataset contains automobile features such as:
 ## 📌 Conclusion
 This analysis helps understand how technical and design features influence automobile pricing and performance. Visualization techniques made hidden patterns easy to interpret.
 
+## 📊 Visual Outputs
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+### Price by Brand
+![Bar Chart](images/bar.png)
+
+### Horsepower vs Price
+![Scatter Plot](images/scatter.png)
+
 ---
 
 ## 👨‍💻 Author

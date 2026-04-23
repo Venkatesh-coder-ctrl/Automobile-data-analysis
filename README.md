@@ -53,10 +53,10 @@ This analysis helps understand how technical and design features influence autom
 ![Heatmap](image/Screenshot 2026-04-23 155708.png)
 
 ### Price by Brand
-![Bar Chart](images/bar.png)
+![Bar Chart](images)
 
 ### Horsepower vs Price
-![Scatter Plot](images/scatter.png)
+![Scatter Plot](images)
 
 ---
 
